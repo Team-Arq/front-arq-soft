@@ -7,6 +7,13 @@ semestre: "2020-2"
 materia y docente:
   Arq. de software: Juan Ospina.
 ---
+---
+title: "The Magic of Markdown"
+author: "Ted Laderas (laderast@ohsu.edu)"
+date: "October 27, 2017"
+output:
+  slidy_presentation: default
+---
 
 ## Bienvenido a Cooper 
 
