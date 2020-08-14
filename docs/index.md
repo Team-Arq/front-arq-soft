@@ -7,3 +7,5 @@
 ### Antecedentes e Historias de Usuario
 
 [Antecedentes](https://docs.google.com/spreadsheets/d/16KerG6vRInKVzRJr2Fz8EUHCHCSO_nisxJej8mNDghU/edit#gid=0)
+
+![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
