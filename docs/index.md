@@ -64,7 +64,7 @@ La aplicación web permitirá  que diferentes personas de tenga acceso  las cual
 Cada cooper héroe prestara un servicio a un ciudadano que necesite su ayuda en alguna labor, por cada  prestado la aplicación cobrará solo un 20% del total del servicio,  esto ayudará a la estabilidad y patrocinio de la página de manera garantizada y también ayudará a pagar las prestaciones sociales de cada uno de nuestros cooper heroes, garantizando su salud, pension y cesantias.
 
 
-![Image](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h1.jpg)
+![Image](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h2.png)
 
 ## Mas informacion del proyecto:
 
