@@ -8,4 +8,4 @@
 
 [Antecedentes](https://docs.google.com/spreadsheets/d/16KerG6vRInKVzRJr2Fz8EUHCHCSO_nisxJej8mNDghU/edit#gid=0)
 
-![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+![Jetpacktocat](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/logo_encabezado.png)
