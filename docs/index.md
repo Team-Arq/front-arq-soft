@@ -54,6 +54,7 @@ Nuestra Aplicación  tendrá 2 tipos de usuario final, los ciudadanos que podrá
 ## Valor Agregado:
 
 Las  aplicaciones del mercado actualmente , ofrecen una variedad de servicios que ayudan a que el usuario pueda encontrar servicios más fácilmente, realizar cotizaciones, realizar agendamientos, calificar el servicio del cooper héroe, pero ninguna cuenta con un sistema de propinas por si se desea realizar una propina a un cooper héroe y tampoco cuenta con un sistema de monedas para realizar regalos a ciudadanos (usuarios).
+
 Por los servicios en este caso para nuestra aplicación este será el valor agregado  propinas y los copper Créditos.
 
 
