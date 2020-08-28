@@ -1,4 +1,4 @@
-![Image](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/logo_encabezado.png)
+![logo](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/logo_encabezado.png)
 
 
 ## Introduccion Copper
@@ -31,7 +31,7 @@ El proyecto busca facilitar a los ciudadanos encontrar alguien que les ayude con
 
 
 
-![Image](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h4.jpg)
+![Image1](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h4.jpg)
 
 
 ## Objetivos:
@@ -42,14 +42,14 @@ El proyecto busca facilitar a los ciudadanos encontrar alguien que les ayude con
 3. Fidelizar a los ciudadanos con un sistema de puntajes en cada tarea realizada por el cooper héroe.
 ```   
 
-![Image](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h3.jpg)
+![Image2](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h3.jpg)
 
 
 ## Usuario Final:
 
 Nuestra Aplicación  tendrá 2 tipos de usuario final, los ciudadanos que podrán solicitar los servicios del segundo tipo de usuario final  los Cooper Heroes, los cuales serán especialistas en solucionar todo tipo de problemas que se puedan presentar  en el hogar de un ciudadano como un televisor descompuesto, una lavadora averiada, un computador dañado, baldosa sueltas… etc.
 
-![Image](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h7.jpg)
+![Image3](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h7.jpg)
 
 ## Valor Agregado:
 
@@ -58,7 +58,7 @@ Las  aplicaciones del mercado actualmente , ofrecen una variedad de servicios qu
 Por los servicios en este caso para nuestra aplicación este será el valor agregado  propinas y los copper Créditos.
 
 
-![Image](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h2.jpg)
+![Image4](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h2.jpg)
 
 ## Utilidad:
 
@@ -66,7 +66,7 @@ La aplicación web permitirá  que diferentes personas de tenga acceso  las cual
 Cada cooper héroe prestara un servicio a un ciudadano que necesite su ayuda en alguna labor, por cada  prestado la aplicación cobrará solo un 20% del total del servicio,  esto ayudará a la estabilidad y patrocinio de la página de manera garantizada y también ayudará a pagar las prestaciones sociales de cada uno de nuestros cooper heroes, garantizando su salud, pension y cesantias.
 
 
-![Image](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h1.jpg)
+![Image5](https://github.com/Team-Arq/front-arq-soft/blob/master/docs/recursos%20pagina/imagenes/h1.jpg)
 
 ## Mas informacion del proyecto:
 
